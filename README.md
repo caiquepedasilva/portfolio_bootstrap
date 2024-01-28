@@ -29,13 +29,13 @@ Apesar do uso pelo bootstrap, pode ocorrer inconsistências quando não se conhe
 Clone o projeto
 
 ```bash
-  git clone https://link-para-o-projeto
+  git clone https://github.com/caiquepedasilva/portfolio_bootstrap.git
 ```
 
 Entre no diretório do projeto
 
 ```bash
-  cd my-project
+  cd portfolio_bootstrap
 ```
 
 Inicie o servidor
